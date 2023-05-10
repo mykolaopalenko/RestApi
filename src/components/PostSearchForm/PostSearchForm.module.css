@@ -1,0 +1,16 @@
+.form{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 30px auto;
+
+}
+.btn{
+   display: inline-block;
+   background-color: #111;
+   cursor: pointer;
+   padding: 10px 15px;
+   border: 1px solid;
+   border-radius: 5px;
+   color: #fff;
+}
